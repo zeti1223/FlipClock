@@ -39,28 +39,6 @@ html, body {
   right: auto !important;
 }
 
-/* Date below clock */
-#date {
-  margin-top: 1rem;
-  font-size: 2vw;
-  color: #ccc;
-  user-select: none;
-  line-height: 1.2;
-}
-
-/* Footer pinned to bottom center */
-#footer {
-  position: fixed;
-  bottom: 1rem;
-  width: 100%;
-  text-align: center;
-  font-size: 1.2vw;
-  color: #34c6ed;
-  font-style: italic;
-  user-select: none;
-  padding: 0 1rem;
-  box-sizing: border-box;
-}
 
 /* Responsive tweaks */
 @media (max-width: 768px) {
